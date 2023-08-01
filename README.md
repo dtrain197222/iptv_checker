@@ -14,11 +14,6 @@ Once you've loaded it, just click on the "Check" button and let the magic happen
 
 ## Specific cases
 
-### iptv-org
-
-The playlists coming from this repository might contain links that aren't available all the time, or that are blocked in your country.
-To prevent such cases, I've ignored them when adding those to the playlist.
-
 ### Xtream-Codes servers (WIP)
 
 Those servers are interesting in many aspects.
